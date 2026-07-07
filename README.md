@@ -38,3 +38,8 @@ proceso de limpieza:
 
 El razonamiento detallado detrás de cada decisión de limpieza se documenta en
 el notebook de análisis exploratorio.
+
+## Despliegue
+
+La aplicación está desplegada en Render y es accesible en:
+https://vehicles-analysis-app.onrender.com/
